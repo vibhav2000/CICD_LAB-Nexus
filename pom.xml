@@ -11,8 +11,8 @@
 
  <distributionManagement>
   <snapshotRepository>
-    <id>lab8_cicd/</id>
-    <name>lab8_cicd/</name>
+    <id>lab8_cicd</id>
+    <name>lab8_cicd</name>
     <url>http://localhost:8081/repository/lab8_cicd/</url>
   </snapshotRepository>
 </distributionManagement>
